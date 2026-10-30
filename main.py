@@ -78,10 +78,10 @@ for app in apps[:5]:
     else:
         print('Steam ne vernyl karty: ', app_id)
 
-    time.sleep(2) #КОНЕЦ ЦИКЛА
+    time.sleep(1) #КОНЕЦ ЦИКЛА
 
 
 
     
 with open("games.json", "w", encoding="utf-8") as file:
-    json.dump([records], file, ensure_ascii=False, indent=2)
+    json.dump(records, file, ensure_ascii=False, indent=2)
