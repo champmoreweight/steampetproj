@@ -1,134 +1,262 @@
 [
-  [
-    {
-      "appid": 10,
-      "name": "Counter-Strike",
-      "is_free": false,
-      "developers": [
-        "Valve"
-      ],
-      "genres": [
-        {
-          "id": "1",
-          "description": "Action"
-        }
-      ],
-      "release_date": {
-        "coming_soon": false,
-        "date": "Nov 1, 2000"
-      },
-      "price_overview": {
-        "currency": "USD",
-        "initial": 999,
-        "final": 999,
-        "discount_percent": 0,
-        "initial_formatted": "",
-        "final_formatted": "$9.99"
+  {
+    "appid": 10,
+    "name": "Counter-Strike",
+    "is_free": false,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
       }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Nov 1, 2000"
     },
-    {
-      "appid": 20,
-      "name": "Team Fortress Classic",
-      "is_free": false,
-      "developers": [
-        "Valve"
-      ],
-      "genres": [
-        {
-          "id": "1",
-          "description": "Action"
-        }
-      ],
-      "release_date": {
-        "coming_soon": false,
-        "date": "Apr 1, 1999"
-      },
-      "price_overview": {
-        "currency": "USD",
-        "initial": 499,
-        "final": 499,
-        "discount_percent": 0,
-        "initial_formatted": "",
-        "final_formatted": "$4.99"
-      }
-    },
-    {
-      "appid": 30,
-      "name": "Day of Defeat",
-      "is_free": false,
-      "developers": [
-        "Valve"
-      ],
-      "genres": [
-        {
-          "id": "1",
-          "description": "Action"
-        }
-      ],
-      "release_date": {
-        "coming_soon": false,
-        "date": "May 1, 2003"
-      },
-      "price_overview": {
-        "currency": "USD",
-        "initial": 499,
-        "final": 499,
-        "discount_percent": 0,
-        "initial_formatted": "",
-        "final_formatted": "$4.99"
-      }
-    },
-    {
-      "appid": 40,
-      "name": "Deathmatch Classic",
-      "is_free": false,
-      "developers": [
-        "Valve"
-      ],
-      "genres": [
-        {
-          "id": "1",
-          "description": "Action"
-        }
-      ],
-      "release_date": {
-        "coming_soon": false,
-        "date": "Jun 1, 2001"
-      },
-      "price_overview": {
-        "currency": "USD",
-        "initial": 499,
-        "final": 499,
-        "discount_percent": 0,
-        "initial_formatted": "",
-        "final_formatted": "$4.99"
-      }
-    },
-    {
-      "appid": 50,
-      "name": "Half-Life: Opposing Force",
-      "is_free": false,
-      "developers": [
-        "Gearbox Software"
-      ],
-      "genres": [
-        {
-          "id": "1",
-          "description": "Action"
-        }
-      ],
-      "release_date": {
-        "coming_soon": false,
-        "date": "Nov 1, 1999"
-      },
-      "price_overview": {
-        "currency": "USD",
-        "initial": 499,
-        "final": 499,
-        "discount_percent": 0,
-        "initial_formatted": "",
-        "final_formatted": "$4.99"
-      }
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
     }
-  ]
+  },
+  {
+    "appid": 20,
+    "name": "Team Fortress Classic",
+    "is_free": false,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Apr 1, 1999"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 30,
+    "name": "Day of Defeat",
+    "is_free": false,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "May 1, 2003"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 40,
+    "name": "Deathmatch Classic",
+    "is_free": false,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jun 1, 2001"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 50,
+    "name": "Half-Life: Opposing Force",
+    "is_free": false,
+    "developers": [
+      "Gearbox Software"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Nov 1, 1999"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 60,
+    "name": "Ricochet",
+    "is_free": false,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Nov 1, 2000"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 70,
+    "name": "Half-Life",
+    "is_free": false,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Nov 19, 1998"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 80,
+    "name": "Counter-Strike: Condition Zero",
+    "is_free": false,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Mar 1, 2004"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 130,
+    "name": "Half-Life: Blue Shift",
+    "is_free": false,
+    "developers": [
+      "Gearbox Software"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jun 1, 2001"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 220,
+    "name": "Half-Life 2",
+    "is_free": false,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Nov 16, 2004"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  }
 ]
