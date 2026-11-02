@@ -1,4 +1,4 @@
-# Steam Games Analytics
+
 
 Сбор данных об играх Steam, загрузка в PostgreSQL и SQL-аналитика.
 
