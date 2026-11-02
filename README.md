@@ -1,4 +1,4 @@
-# Steam Games Analytics
+
 
 Сбор данных об играх Steam, загрузка в PostgreSQL и SQL-аналитика.
 
@@ -32,4 +32,8 @@ steamgameproj/
 └── screenshots/           # картинки результатов для README
 
 ## Примеры запросов и результатов
+<<<<<<< HEAD
 ![Кол-во игр по жанрам](screenshots/kolvo.png)
+=======
+[Кол-во игр по жанрам](screenshots/kolvo.png)
+>>>>>>> cc40bbfb74eb3b6c732582c6ef54ede62e471bd6
