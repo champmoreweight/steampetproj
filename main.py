@@ -42,7 +42,7 @@ apps = data["response"]["apps"]
 #print('Получено игр', len(apps))
 
 records = []
-for app in apps[:5]:
+for app in apps[:10]:
     app_id = app['appid']
 
 
