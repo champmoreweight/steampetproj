@@ -10,14 +10,14 @@ api_key = os.getenv("STEAM_API_KEY")
 print('Ключ загружен:', bool(api_key))
 
 url = 'https://api.steampowered.com/IStoreService/GetAppList/v1/'
-
+skoka = int(input('Сколько игр загружаем? - '))
 filters = {
     "include_games": True,
     "include_dlc": False,
     "include_software": False,
     "include_videos": False,
     "include_hardware": False,
-    "max_results": 100
+    "max_results": skoka
 }
 
 details_url = "https://store.steampowered.com/api/appdetails"
@@ -41,8 +41,9 @@ apps = data["response"]["apps"]
 
 #print('Получено игр', len(apps))
 
+
 records = []
-for app in apps[:10]:
+for app in apps[:skoka]:
     app_id = app['appid']
 
 
@@ -78,7 +79,7 @@ for app in apps[:10]:
     else:
         print('Steam ne vernyl karty: ', app_id)
 
-    time.sleep(1) #КОНЕЦ ЦИКЛА
+    time.sleep(0.1) #КОНЕЦ ЦИКЛА
 
 
 

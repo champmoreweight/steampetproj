@@ -258,5 +258,2701 @@
       "initial_formatted": "",
       "final_formatted": "$9.99"
     }
+  },
+  {
+    "appid": 240,
+    "name": "Counter-Strike: Source",
+    "is_free": false,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Nov 1, 2004"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 300,
+    "name": "Day of Defeat: Source",
+    "is_free": false,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jul 12, 2010"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 320,
+    "name": "Half-Life 2: Deathmatch",
+    "is_free": false,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Nov 1, 2004"
+    },
+    "price_overview": null
+  },
+  {
+    "appid": 360,
+    "name": "Half-Life Deathmatch: Source",
+    "is_free": false,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "May 1, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 400,
+    "name": "Portal",
+    "is_free": false,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 10, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 440,
+    "name": "Team Fortress 2",
+    "is_free": true,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      },
+      {
+        "id": "37",
+        "description": "Free To Play"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 10, 2007"
+    },
+    "price_overview": null
+  },
+  {
+    "appid": 500,
+    "name": "Left 4 Dead",
+    "is_free": false,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Nov 17, 2008"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 550,
+    "name": "Left 4 Dead 2",
+    "is_free": false,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Nov 16, 2009"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 570,
+    "name": "Dota 2",
+    "is_free": true,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      },
+      {
+        "id": "2",
+        "description": "Strategy"
+      },
+      {
+        "id": "37",
+        "description": "Free To Play"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jul 9, 2013"
+    },
+    "price_overview": null
+  },
+  {
+    "appid": 620,
+    "name": "Portal 2",
+    "is_free": false,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      },
+      {
+        "id": "25",
+        "description": "Adventure"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Apr 18, 2011"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 630,
+    "name": "Alien Swarm",
+    "is_free": true,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      },
+      {
+        "id": "37",
+        "description": "Free To Play"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jul 19, 2010"
+    },
+    "price_overview": null
+  },
+  {
+    "appid": 730,
+    "name": "Counter-Strike 2",
+    "is_free": true,
+    "developers": [
+      "Valve"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      },
+      {
+        "id": "37",
+        "description": "Free To Play"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 21, 2012"
+    },
+    "price_overview": null
+  },
+  {
+    "appid": 1002,
+    "name": "Rag Doll Kung Fu",
+    "is_free": false,
+    "developers": [
+      "Mark Healey"
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "Indie"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 12, 2005"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 99,
+      "final": 99,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$0.99"
+    }
+  },
+  {
+    "appid": 1200,
+    "name": "Red Orchestra: Ostfront 41-45",
+    "is_free": false,
+    "developers": [
+      "Tripwire Interactive"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Mar 14, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 1250,
+    "name": "Killing Floor",
+    "is_free": false,
+    "developers": [
+      "Tripwire Interactive"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "May 14, 2009"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 1999,
+      "final": 199,
+      "discount_percent": 90,
+      "initial_formatted": "$19.99",
+      "final_formatted": "$1.99"
+    }
+  },
+  {
+    "appid": 1300,
+    "name": "SiN Episodes: Emergence",
+    "is_free": false,
+    "developers": [
+      "Ritual Entertainment"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "May 10, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 199,
+      "discount_percent": 80,
+      "initial_formatted": "$9.99",
+      "final_formatted": "$1.99"
+    }
+  },
+  {
+    "appid": 1313,
+    "name": "SiN Gold (1998)",
+    "is_free": false,
+    "developers": [
+      "Ritual Entertainment",
+      "Nightdive Studios"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Mar 18, 2020"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 499,
+      "discount_percent": 50,
+      "initial_formatted": "$9.99",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 1500,
+    "name": "Darwinia",
+    "is_free": false,
+    "developers": [
+      "Introversion Software"
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "Indie"
+      },
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Dec 1, 2005"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 1199,
+      "final": 1199,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$11.99"
+    }
+  },
+  {
+    "appid": 1510,
+    "name": "Uplink",
+    "is_free": false,
+    "developers": [
+      "Introversion Software"
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "Indie"
+      },
+      {
+        "id": "28",
+        "description": "Simulation"
+      },
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 23, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 1199,
+      "final": 1199,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$11.99"
+    }
+  },
+  {
+    "appid": 1520,
+    "name": "DEFCON",
+    "is_free": false,
+    "developers": [
+      "Introversion Software"
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "Indie"
+      },
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Sep 29, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 1199,
+      "final": 1199,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$11.99"
+    }
+  },
+  {
+    "appid": 1530,
+    "name": "Multiwinia",
+    "is_free": false,
+    "developers": [
+      "Introversion Software"
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "Indie"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Sep 19, 2008"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 1199,
+      "final": 1199,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$11.99"
+    }
+  },
+  {
+    "appid": 1600,
+    "name": "Dangerous Waters",
+    "is_free": false,
+    "developers": [
+      "Sonalysts"
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Feb 7, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 1499,
+      "final": 1499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$14.99"
+    }
+  },
+  {
+    "appid": 1610,
+    "name": "Space Empires IV Deluxe",
+    "is_free": false,
+    "developers": [
+      "Malfador Machinations"
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Feb 7, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 1620,
+    "name": "Jagged Alliance 2 Gold",
+    "is_free": false,
+    "developers": [
+      "Sir-Tech"
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jul 6, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 1999,
+      "final": 1999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$19.99"
+    }
+  },
+  {
+    "appid": 1630,
+    "name": "Disciples II: Rise of the Elves ",
+    "is_free": false,
+    "developers": [
+      "Strategy First"
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jul 6, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 599,
+      "final": 119,
+      "discount_percent": 80,
+      "initial_formatted": "$5.99",
+      "final_formatted": "$1.19"
+    }
+  },
+  {
+    "appid": 1640,
+    "name": "Disciples II: Gallean's Return",
+    "is_free": false,
+    "developers": [
+      "Strategy First"
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jul 6, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 599,
+      "final": 119,
+      "discount_percent": 80,
+      "initial_formatted": "$5.99",
+      "final_formatted": "$1.19"
+    }
+  },
+  {
+    "appid": 1670,
+    "name": "Iron Warriors: T-72 Tank Command ",
+    "is_free": false,
+    "developers": [
+      "Crazy House"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      },
+      {
+        "id": "28",
+        "description": "Simulation"
+      },
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jul 26, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 599,
+      "final": 599,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$5.99"
+    }
+  },
+  {
+    "appid": 1690,
+    "name": "Space Empires V",
+    "is_free": false,
+    "developers": [
+      "Malfador Machinations"
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 16, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 1499,
+      "final": 1499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$14.99"
+    }
+  },
+  {
+    "appid": 1700,
+    "name": "Arx Fatalis",
+    "is_free": false,
+    "developers": [
+      "Arkane Studios"
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "RPG"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Apr 3, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 1900,
+    "name": "Earth 2160",
+    "is_free": false,
+    "developers": [
+      "Reality Pump Studios"
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Apr 1, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 1930,
+    "name": "Two Worlds Epic Edition",
+    "is_free": false,
+    "developers": [
+      "Reality Pump Studios"
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "RPG"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Apr 30, 2009"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 1499,
+      "final": 1499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$14.99"
+    }
+  },
+  {
+    "appid": 2100,
+    "name": "Dark Messiah of Might & Magic",
+    "is_free": false,
+    "developers": [
+      "Arkane Studios"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      },
+      {
+        "id": "3",
+        "description": "RPG"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 25, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 2200,
+    "name": "Quake III Arena",
+    "is_free": false,
+    "developers": [
+      "id Software"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 3, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 1499,
+      "final": 1499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$14.99"
+    }
+  },
+  {
+    "appid": 2210,
+    "name": "Quake 4",
+    "is_free": false,
+    "developers": [
+      "RavenSoft",
+      "id Software"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 4, 2011"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 1499,
+      "final": 1499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$14.99"
+    }
+  },
+  {
+    "appid": 2270,
+    "name": "Wolfenstein 3D",
+    "is_free": false,
+    "developers": [
+      "id Software"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 3, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 2280,
+    "name": "DOOM + DOOM II",
+    "is_free": false,
+    "developers": [
+      "id Software",
+      "Night Dive Studios",
+      "Romero Games Ltd",
+      "MachineGames"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 3, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 2310,
+    "name": "Quake",
+    "is_free": false,
+    "developers": [
+      "id Software",
+      "Nightdive Studios",
+      "MachineGames"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 3, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 2320,
+    "name": "Quake II",
+    "is_free": false,
+    "developers": [
+      "id Software",
+      "Nightdive Studios",
+      "MachineGames"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 3, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 2400,
+    "name": "The Ship: Murder Party",
+    "is_free": false,
+    "developers": [
+      "Outerlight Ltd."
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      },
+      {
+        "id": "23",
+        "description": "Indie"
+      },
+      {
+        "id": "3",
+        "description": "RPG"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jul 11, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 2420,
+    "name": "The Ship: Single Player",
+    "is_free": false,
+    "developers": [
+      "Outerlight Ltd."
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      },
+      {
+        "id": "23",
+        "description": "Indie"
+      },
+      {
+        "id": "3",
+        "description": "RPG"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Nov 20, 2006"
+    },
+    "price_overview": null
+  },
+  {
+    "appid": 2450,
+    "name": "Bloody Good Time",
+    "is_free": false,
+    "developers": [
+      "Outerlight Ltd."
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 29, 2010"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 2500,
+    "name": "Shadowgrounds",
+    "is_free": false,
+    "developers": [
+      "Frozenbyte"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "May 8, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 699,
+      "final": 699,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$6.99"
+    }
+  },
+  {
+    "appid": 2520,
+    "name": "Gumboy - Crazy Adventures™",
+    "is_free": false,
+    "developers": [
+      "CINEMAX, s.r.o."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      },
+      {
+        "id": "23",
+        "description": "Indie"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Dec 19, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 2540,
+    "name": "RIP - Trilogy™",
+    "is_free": false,
+    "developers": [
+      "Elephant Games"
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      },
+      {
+        "id": "23",
+        "description": "Indie"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jun 1, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 2590,
+    "name": "Alpha Prime",
+    "is_free": false,
+    "developers": [
+      "Black Element"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Nov 7, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 99,
+      "discount_percent": 80,
+      "initial_formatted": "$4.99",
+      "final_formatted": "$0.99"
+    }
+  },
+  {
+    "appid": 2600,
+    "name": "Vampire: The Masquerade - Bloodlines",
+    "is_free": false,
+    "developers": [
+      "Troika Games"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Mar 22, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 1999,
+      "final": 1999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$19.99"
+    }
+  },
+  {
+    "appid": 2610,
+    "name": "GUN™",
+    "is_free": false,
+    "developers": [
+      "Neversoft"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 13, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 1999,
+      "final": 1999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$19.99"
+    }
+  },
+  {
+    "appid": 2620,
+    "name": "Call of Duty® (2003)",
+    "is_free": false,
+    "developers": [
+      "Infinity Ward"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 13, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 1999,
+      "final": 1999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$19.99"
+    }
+  },
+  {
+    "appid": 2630,
+    "name": "Call of Duty® 2",
+    "is_free": false,
+    "developers": [
+      "Infinity Ward"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 13, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 1999,
+      "final": 1999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$19.99"
+    }
+  },
+  {
+    "appid": 2640,
+    "name": "Call of Duty: United Offensive",
+    "is_free": false,
+    "developers": [
+      "Gray Matter Studios"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 13, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 1999,
+      "final": 1999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$19.99"
+    }
+  },
+  {
+    "appid": 2700,
+    "name": "RollerCoaster Tycoon® 3: Platinum",
+    "is_free": false,
+    "developers": [
+      "Frontier",
+      "Aspyr (Mac)"
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "Simulation"
+      },
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Mar 12, 2008"
+    },
+    "price_overview": null
+  },
+  {
+    "appid": 2710,
+    "name": "Act of War: Direct Action",
+    "is_free": false,
+    "developers": [
+      "Eugen Systems"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Mar 12, 2008"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 299,
+      "final": 299,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$2.99"
+    }
+  },
+  {
+    "appid": 2720,
+    "name": "ThreadSpace: Hyperbol",
+    "is_free": false,
+    "developers": [
+      "Iocaine Studios"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      },
+      {
+        "id": "23",
+        "description": "Indie"
+      },
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jul 12, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 2800,
+    "name": "X2: The Threat",
+    "is_free": false,
+    "developers": [
+      "Egosoft"
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jul 21, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 99,
+      "discount_percent": 80,
+      "initial_formatted": "$4.99",
+      "final_formatted": "$0.99"
+    }
+  },
+  {
+    "appid": 2810,
+    "name": "X3: Reunion",
+    "is_free": false,
+    "developers": [
+      "Egosoft"
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jul 21, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 199,
+      "discount_percent": 80,
+      "initial_formatted": "$9.99",
+      "final_formatted": "$1.99"
+    }
+  },
+  {
+    "appid": 2820,
+    "name": "X3: Terran Conflict",
+    "is_free": false,
+    "developers": [
+      "Egosoft"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      },
+      {
+        "id": "28",
+        "description": "Simulation"
+      },
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 16, 2008"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 1599,
+      "final": 319,
+      "discount_percent": 80,
+      "initial_formatted": "$15.99",
+      "final_formatted": "$3.19"
+    }
+  },
+  {
+    "appid": 2840,
+    "name": "X: Beyond the Frontier",
+    "is_free": false,
+    "developers": [
+      "Egosoft"
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "Simulation"
+      },
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 8, 2010"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 99,
+      "discount_percent": 80,
+      "initial_formatted": "$4.99",
+      "final_formatted": "$0.99"
+    }
+  },
+  {
+    "appid": 2850,
+    "name": "X: Tension",
+    "is_free": false,
+    "developers": [
+      "Egosoft"
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "Simulation"
+      },
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 8, 2010"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 99,
+      "discount_percent": 80,
+      "initial_formatted": "$4.99",
+      "final_formatted": "$0.99"
+    }
+  },
+  {
+    "appid": 2870,
+    "name": "X Rebirth",
+    "is_free": false,
+    "developers": [
+      "Egosoft"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      },
+      {
+        "id": "28",
+        "description": "Simulation"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Nov 15, 2013"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 2999,
+      "final": 599,
+      "discount_percent": 80,
+      "initial_formatted": "$29.99",
+      "final_formatted": "$5.99"
+    }
+  },
+  {
+    "appid": 2900,
+    "name": "688(I) Hunter/Killer",
+    "is_free": false,
+    "developers": [
+      "Sonalysts"
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 26, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 2910,
+    "name": "Fleet Command",
+    "is_free": false,
+    "developers": [
+      "Sonalysts"
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 26, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 2920,
+    "name": "Sub Command",
+    "is_free": false,
+    "developers": [
+      "Sonalysts"
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 26, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 2990,
+    "name": "FlatOut 2",
+    "is_free": false,
+    "developers": [
+      "Bugbear Entertainment",
+      "ZOOM Platform Media",
+      "Jordan Freeman Group"
+    ],
+    "genres": [
+      {
+        "id": "9",
+        "description": "Racing"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Dec 21, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 199,
+      "discount_percent": 80,
+      "initial_formatted": "$9.99",
+      "final_formatted": "$1.99"
+    }
+  },
+  {
+    "appid": 3010,
+    "name": "Xpand Rally",
+    "is_free": false,
+    "developers": [
+      "Techland"
+    ],
+    "genres": [
+      {
+        "id": "9",
+        "description": "Racing"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 24, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3020,
+    "name": "Call of Juarez",
+    "is_free": false,
+    "developers": [
+      "Techland"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Nov 8, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "appid": 3050,
+    "name": "Xpand Rally Xtreme",
+    "is_free": false,
+    "developers": [
+      "Techland"
+    ],
+    "genres": [
+      {
+        "id": "9",
+        "description": "Racing"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 8, 2008"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3130,
+    "name": "Men of War: Red Tide",
+    "is_free": false,
+    "developers": [
+      "Fulqrum Publishing"
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Nov 1, 2009"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3170,
+    "name": "King's Bounty: Armored Princess",
+    "is_free": false,
+    "developers": [
+      "Katauri Interactive"
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "RPG"
+      },
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Nov 19, 2009"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 149,
+      "discount_percent": 85,
+      "initial_formatted": "$9.99",
+      "final_formatted": "$1.49"
+    }
+  },
+  {
+    "appid": 3230,
+    "name": "Genesis Rising",
+    "is_free": false,
+    "developers": [
+      "Metamorf"
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 6, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3260,
+    "name": "Safecracker: The Ultimate Puzzle Adventure",
+    "is_free": false,
+    "developers": [
+      "Kheops Studio"
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "Adventure"
+      },
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 29, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3270,
+    "name": "Painkiller Overdose",
+    "is_free": false,
+    "developers": [
+      "Mindware Studios"
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 30, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3300,
+    "name": "Bejeweled 2 Deluxe",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 30, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3310,
+    "name": "Chuzzle Deluxe",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 30, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3320,
+    "name": "Insaniquarium Deluxe",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 30, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3330,
+    "name": "Zuma Deluxe",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 30, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3340,
+    "name": "AstroPop Deluxe",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 30, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3350,
+    "name": "Bejeweled Deluxe",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 30, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3360,
+    "name": "Big Money! Deluxe",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 30, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3380,
+    "name": "Dynomite Deluxe",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 30, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3390,
+    "name": "Feeding Frenzy 2 Deluxe",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 30, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3400,
+    "name": "Hammer Heads Deluxe",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 30, 2006"
+    },
+    "price_overview": null
+  },
+  {
+    "appid": 3410,
+    "name": "Heavy Weapon Deluxe",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 30, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3420,
+    "name": "Iggle Pop Deluxe",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 30, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3430,
+    "name": "Pizza Frenzy Deluxe",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 30, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3450,
+    "name": "Typer Shark! Deluxe",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 30, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3460,
+    "name": "Talismania Deluxe",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Aug 30, 2006"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3480,
+    "name": "Peggle Deluxe",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Mar 6, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3483,
+    "name": "Peggle Extreme",
+    "is_free": true,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      },
+      {
+        "id": "37",
+        "description": "Free To Play"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Sep 11, 2007"
+    },
+    "price_overview": null
+  },
+  {
+    "appid": 3490,
+    "name": "Venice Deluxe",
+    "is_free": false,
+    "developers": [
+      "Retro64, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jun 25, 2007"
+    },
+    "price_overview": null
+  },
+  {
+    "appid": 3500,
+    "name": "Mystery P.I.™ - The Lottery Ticket",
+    "is_free": false,
+    "developers": [
+      "SpinTop Games"
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 16, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3510,
+    "name": "Amazing Adventures The Lost Tomb™",
+    "is_free": false,
+    "developers": [
+      "SpinTop Games"
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Dec 13, 2007"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3520,
+    "name": "Mystery P.I.™ - The Vegas Heist",
+    "is_free": false,
+    "developers": [
+      "SpinTop Games"
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jun 5, 2008"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3530,
+    "name": "Amazing Adventures Around the World",
+    "is_free": false,
+    "developers": [
+      "SpinTop Games"
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Apr 15, 2009"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3540,
+    "name": "Peggle™ Nights",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Oct 15, 2008"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3560,
+    "name": "Bejeweled Twist",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      },
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Nov 18, 2008"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3570,
+    "name": "Mystery P.I.™ - The New York Fortune",
+    "is_free": false,
+    "developers": [
+      "SpinTop Games"
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jan 28, 2009"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3580,
+    "name": "The Wizard's Pen™",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Feb 18, 2009"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3590,
+    "name": "Plants vs. Zombies GOTY Edition",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "Strategy"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "May 5, 2009"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3600,
+    "name": "Escape Rosecliff Island",
+    "is_free": false,
+    "developers": [
+      "SpinTop Games"
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Apr 15, 2009"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3610,
+    "name": "Mystery P.I. - Lost in Los Angeles",
+    "is_free": false,
+    "developers": [
+      "SpinTop Games"
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Jul 27, 2009"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
+  },
+  {
+    "appid": 3620,
+    "name": "Zuma's Revenge!",
+    "is_free": false,
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "Action"
+      },
+      {
+        "id": "4",
+        "description": "Casual"
+      }
+    ],
+    "release_date": {
+      "coming_soon": false,
+      "date": "Sep 15, 2009"
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial": 499,
+      "final": 499,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$4.99"
+    }
   }
 ]
