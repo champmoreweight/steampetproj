@@ -5,7 +5,7 @@
 ## Что делает проект
 1. `main.py` собирает данные об играх из Steam API.
 2. `load_to_db.py` загружает их в PostgreSQL.
-3. `queries.sql` содержит аналитические запросы.
+3. `zaprosi.sql` содержит аналитические запросы.
 
 ## Стек
 Python, PostgreSQL, SQL 
