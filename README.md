@@ -32,4 +32,4 @@ steamgameproj/
 └── screenshots/           # картинки результатов для README
 
 ## Примеры запросов и результатов
-[Кол-во игр по жанрам](screenshots/kolvo.png)
+![Кол-во игр по жанрам](screenshots/kolvo.png)
